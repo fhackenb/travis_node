@@ -1,0 +1,12 @@
+{
+    "name": "travis-demo",
+    "description": "Travis-CI Demo",
+    "author": "fhackenb",
+    "version": "0.0.1",
+    "devDependencies": {
+        "jshint": "^2.10.2"
+    },
+    "scripts": {
+        "test": "jshint hello.js"
+    }
+}
